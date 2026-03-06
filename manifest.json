@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nazare App",
+  "orientation": "any",
+  "scope": "https://hadess-coder.github.io/nazare-app/",
+  "short_name": "Nazare",
+  "start_url": "https://hadess-coder.github.io/nazare-app/",
+  "theme_color": "#ffffff",
+  "lang": "pt"
+}
